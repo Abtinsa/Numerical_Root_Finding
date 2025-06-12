@@ -85,7 +85,7 @@ Each method includes a convergence plot where:
 ✨ **Author**
 
 👨‍💻 Abtin Aghasadeghi  
-📍 Civil Engineer | Numerical Methods Enthusiast  
+📍 Civil Engineer | Numerical Calculations Enthusiast  
 📧 [Contact Me](mailto:Sadeghi@work.com)
 
 ---
